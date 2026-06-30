@@ -1,6 +1,6 @@
 # Wordle Duel
 
-Game Project for CS323 - Parallel and Distributed Computing
+Game Project for CS323 - Parallel and Distributed Computing (PDC)
 
 Wordle Duel is a real-time, server-authoritative multiplayer Wordle battle game. Players can create lobbies, join matches, and compete concurrently to solve the same Wordle puzzle. The architecture strictly separates the presentation layer (Frontend) from the game logic and state management (Backend), showcasing advanced parallel and distributed computing (PDC) paradigms.
 
